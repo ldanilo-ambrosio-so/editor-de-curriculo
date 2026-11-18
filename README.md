@@ -1,7 +1,7 @@
 # 📄 Editor de Currículo Profissional (CV Builder)
 
 <p align="center">
-  <img src="demo-profile.png" alt="Foto de perfil fictícia usada no exemplo" width="240">
+  <img src="assets/preview-editor.png" alt="Prévia do editor de currículo com painel de edição e currículo em tempo real" width="900">
 </p>
 
 <p align="center">
@@ -48,6 +48,7 @@ O **Editor de Currículo Profissional** é uma aplicação web focada em simplic
 ├── editor.html                     # Interface completa do editor interativo (Formulários + Live Preview)
 ├── index.html                      # Template do currículo pronto para visualização / impressão direta
 ├── template_original.html          # Backup do modelo base
+├── assets/preview-editor.png        # Captura de tela da interface do editor
 ├── demo-profile.png                # Foto de perfil fictícia usada no exemplo
 ├── LICENSE                         # Licença MIT
 └── README.md                       # Documentação do projeto
