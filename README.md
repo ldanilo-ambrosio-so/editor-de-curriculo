@@ -46,8 +46,8 @@ O **Editor de Currículo Profissional** é uma aplicação web focada em simplic
 
 ```text
 ├── editor.html                     # Interface completa do editor interativo (Formulários + Live Preview)
-├── index.html                      # Template do currículo pronto para visualização / impressão direta
-├── template_original.html          # Backup do modelo base
+├── index.html                      # Entrada do projeto; abre o editor automaticamente
+├── template_original.html          # Modelo estático de currículo de exemplo
 ├── assets/preview-editor.png        # Captura de tela da interface do editor
 ├── demo-profile.png                # Foto de perfil fictícia usada no exemplo
 ├── LICENSE                         # Licença MIT
