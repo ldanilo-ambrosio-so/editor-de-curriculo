@@ -1,0 +1,12 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Backups e temporários
+bkp/
+*.bak
+*.tmp
+
+# IDEs e Editores
+.vscode/
+.idea/
